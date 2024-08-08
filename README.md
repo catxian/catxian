@@ -16,7 +16,11 @@
 *我非常感谢您的赞赏和支持，它们将极大地激励我继续创新，持续产生有价值的工作。*
   
 - **USDT-TRC20:** `目前没有`
+  
+</details>
 
+<div align="center">
+  
 <!-- 线 -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
  
