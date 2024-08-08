@@ -12,7 +12,7 @@
   <a href="https://am.809098.xyz"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
   <a href="https://www.youtube.com/@AM_CLUB"><img src="https://img.shields.io/badge/youtube-%E6%B2%B9%E7%AE%A1-c32136"></a>&emsp;
   <a href="https://t.me/AM_CLUBS"><img src="https://img.shields.io/badge/Telegram--lightgrey?logo=Telegram&style=social"></a>&emsp;
-  <a href="https://github.com/ansoncloud8"><img src="https://npm.elemecdn.com/anzhiyu-blog@2.1.5/img/badge/Source-Github.svg"></a>&emsp;
+  <a href="https://github.com/kingcccccc"><img src="https://npm.elemecdn.com/anzhiyu-blog@2.1.5/img/badge/Source-Github.svg"></a>&emsp;
  </div> 
 
 <!-- # 🙋 Hi, I’m AM科技  -->
@@ -57,9 +57,9 @@
 <div align="center" ><img order-radius="100px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/></div>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ansoncloud8&show_icons=false&theme=Default" alt="logo" align="right" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=kingcccccc&show_icons=false&theme=Default" alt="logo" align="right" width="100%" />
 
 <!---
-ansoncloud8/ansoncloud8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+kingcccccc/kingcccccc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
