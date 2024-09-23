@@ -1,6 +1,6 @@
 <!-- 个人资料徽标 -->
 <div align="center">
-  <a href="https://catxian.freeblog.us.kg//"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
+  <a href="https://catxian.freeblog.us.kg/"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
   <a href="目前没有"><img src="https://img.shields.io/badge/youtube-%E6%B2%B9%E7%AE%A1-c32136"></a>&emsp;
   <a href="目前没有"><img src="https://img.shields.io/badge/Telegram--lightgrey?logo=Telegram&style=social"></a>&emsp;
   <a href="https://github.com/catxian"><img src="https://npm.elemecdn.com/anzhiyu-blog@2.1.5/img/badge/Source-Github.svg"></a>&emsp;
